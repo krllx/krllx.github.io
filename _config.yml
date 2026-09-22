@@ -1,0 +1,18 @@
+title: Kirill Dmitriev
+tagline: GPU kernels, compilers, and things that quietly compute the wrong number
+description: >-
+  Worklogs from poking at CUDA kernels on consumer Blackwell (sm_120):
+  what I measured, what broke, and what the numbers actually were.
+author: Kirill Dmitriev
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  skin: dark
+  social_links:
+    - platform: github
+      user_url: "https://github.com/krllx"
+header_pages:
+  - about.md
+show_excerpts: true
